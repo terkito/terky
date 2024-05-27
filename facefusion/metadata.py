@@ -5,7 +5,7 @@ METADATA =\
 	'version': '2.6.0',
 	'license': 'MIT',
 	'author': 'Henry Ruhs',
-	'url': 'https://facefusion.io'
+	'url': 'https://buyquickviews.com'
 }
 
 
