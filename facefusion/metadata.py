@@ -1,10 +1,10 @@
 METADATA =\
 {
-	'name': 'FaceFusion',
+	'name': 'Buyquickviews-FaceFusion',
 	'description': 'Next generation face swapper and enhancer',
-	'version': '2.6.0',
+	'version': '1.0.0',
 	'license': 'MIT',
-	'author': 'Henry Ruhs',
+	'author': 'Terky',
 	'url': 'https://buyquickviews.com'
 }
 
