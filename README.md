@@ -3,7 +3,7 @@ git clone https://github.com/facefusion/facefusion.git
 git clone https://github.com/facefusion/facefusion-docker.git
 
 
-content_analyser.py para erliminar y editar porno
+content_analyser.py para erliminar y editar
 
 def analyse_frame(vision_frame : VisionFrame) -> bool:
     # content_analyser = get_content_analyser()
